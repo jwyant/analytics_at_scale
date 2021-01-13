@@ -26,7 +26,7 @@ $ sudo yum install -y postgresql postgresql-devel postgresql-libs python3 python
 $ sudo yum groupinstall -y "Development Tools"
 ```
 ### Make a virtualenv for Python3 (so we don’t want to stress the Amazon Linux/yum managed Python environment)
-- `$ python3 -m venv venv
+- `$ python3 -m venv venv`
 #### Get into the virtualenv
 - `$ source venv/bin/activate`
 ### Install additional python libraries
