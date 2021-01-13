@@ -1,4 +1,4 @@
-# analytics_at_scale
+# Analytics @ Scale
 Code for demonstrating AWS's ability to scale analytics to enterprise volumes (30TB dataset) and use a Lake House architecture to eliminate data silos and empower analysts.
 
 The goal of this exercise is to facilitate demonstrating AWS’s scaling functionality with industry standard benchmarks and datasets. The features we want to demonstrate include:
